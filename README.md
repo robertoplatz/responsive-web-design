@@ -6,5 +6,7 @@ Ben Frain, 2020
 [02.Writing HTML Markup](chapter02/02.writing_html_markup.md)   
 [03.Media Query - Supporting Differing Viewports](chapter03/03.media_query.md)   
 [04. Fluid Layout, Flexbox, and Responsive Images](chapter04/04.fluid_layout_flexbox_and_responsive_images.md)  
+[05.Layout with CSS Grid](chapter05/05.layout_with_css_grid.md)   
+
 
 
