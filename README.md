@@ -7,6 +7,6 @@ Ben Frain, 2020
 [03.Media Query - Supporting Differing Viewports](chapter03/03.media_query.md)   
 [04. Fluid Layout, Flexbox, and Responsive Images](chapter04/04.fluid_layout_flexbox_and_responsive_images.md)  
 [05.Layout with CSS Grid](chapter05/05.layout_with_css_grid.md)   
-
+[06.CSS Selectors, Typography, Color Modes, and More](chapter06/06.css_selectors_typography_color_modes.md)  
 
 
